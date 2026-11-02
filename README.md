@@ -11,6 +11,3 @@ An embedded C/C++ system built on Arduino to automate environmental monitoring a
 - **Software:** C/C++ (Arduino IDE)
 - **Simulation & Schematics:** Designed and virtually verified via Tinkercad before hardware assembly.
 - **Hardware Components:** Arduino Microcontroller (Uno/Nano), Temperature & Humidity Sensor, Status LEDs.
-
-## Project Documentation
-- 📄 [Read the Technical Report](./reports/greenhouse_report.pdf)
